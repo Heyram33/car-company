@@ -151,4 +151,8 @@ img{
         width: 25rem;
     }
 }
-
+@media screen and (max-width:428px) {
+    nav li{
+        display: none;
+    }
+}
